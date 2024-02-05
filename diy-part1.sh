@@ -29,3 +29,4 @@ git clone https://github.com/ssuperh/luci-app-vlmcsd-new.git package/luci-app-vl
 git clone https://github.com/animefansxj/luci-app-vsftpd package/luci-app-vsftpd
 git clone https://github.com/rufengsuixing/luci-app-zerotier luci-app-zerotier
 git clone https://github.com/mchome/openwrt-vlmcsd.git package/openwrt-vlmcsd
+git clone https://github.com/haiibo/openwrt-packages package/openwrt-packages
