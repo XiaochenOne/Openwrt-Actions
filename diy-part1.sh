@@ -30,4 +30,4 @@
 # git clone https://github.com/rufengsuixing/luci-app-zerotier luci-app-zerotier
 # git clone https://github.com/mchome/openwrt-vlmcsd.git package/openwrt-vlmcsd
 # git clone https://github.com/haiibo/openwrt-packages package/openwrt-packages
-git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
+#git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
