@@ -12,4 +12,6 @@
 
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.100.1/g' package/base-files/files/bin/config_generate
-#rm -rf package/feeds/haibo/qBittorrent-Enhanced-Edition
+
+rm -rf package/feeds/haibo/qBittorrent-Enhanced-Edition
+git clone https://github.com/XiaochenOne/some-openwrt-s-package.git package/
