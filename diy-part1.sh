@@ -19,8 +19,8 @@
 
 git clone https://github.com/XiaochenOne/some-package.git package/some-package
 
-git clone https://github.com/xiaorouji/openwrt-passwall-packages package/passwall-package
-git clone https://github.com/xiaorouji/openwrt-passwall2 package/passwall
+#git clone https://github.com/xiaorouji/openwrt-passwall-packages package/passwall-package
+#git clone https://github.com/xiaorouji/openwrt-passwall2 package/passwall
 
 #echo "src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main" >> "feeds.conf.default"
 #echo "src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main" >> "feeds.conf.default"
